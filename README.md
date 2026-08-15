@@ -319,7 +319,9 @@ This is a **locally-hosted prototype** built for a minor project presentation. B
 - Cloud deployment or authentication
 - A production database (directory + `session.json` is the intentional DBMS substitute)
 
----
+--- 
+
+There's also a report of this project in " https://github.com/adityaanantpatil/Reports_of_projects " repo so check it out 
 
 <div align="center">
 
